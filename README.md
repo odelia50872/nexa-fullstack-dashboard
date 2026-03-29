@@ -23,7 +23,6 @@ You can explore the system using an existing user from the API.
 ---
 
 ## 📸 Screenshots
-*(To display images, upload your screenshots to the repository and link them here)*
 
 ### Authentication
 <img width="1872" height="1170" alt="Login" src="https://github.com/user-attachments/assets/9a43c81a-e208-40ff-a13f-4c0a217a5915" />
